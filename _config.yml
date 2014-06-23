@@ -1,27 +1,27 @@
-title:            Site Title
-description:      Describe your website.
+title:            WedgieEdward
+description:      Edward Thomason's Personal Page
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://wedgieedward.gitgub.io
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Edward Thomason
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  stackoverflow:
+  twitter: wedgieedward
+  facebook: wedgieedward
+  github: wedgieedward
+  stackoverflow: wedgieedward
   linkedin:
-  instagram:
-  lastfm:
+  instagram: wedgieedward
+  lastfm: wedgieedward
   tumblr:
   pinterest:
   foursquare:
-  steam:
+  steam: wedgieedward
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
@@ -41,8 +41,8 @@ links:
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: WedgieEdward
+    url: http://wedgieedward.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
